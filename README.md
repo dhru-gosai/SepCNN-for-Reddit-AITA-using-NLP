@@ -11,12 +11,9 @@ Steps involved to create ML model via web crawling and NLP:
 2. Data Pre-processing
 3. Data Wrangling
     - vocabulary augmentation
-    - Generation of sample configuration from the initial datasets:
-        - The Post Verdict is a trait (observation of a variable) of the sample.
-    - Generation of sample subset:
-        - reference any sample distributions, biases and or data limitations
+    - Generation of sample configuration from the initial datasets
+    - Generation of the sample subset
     - Create test and training subsets
-        - reference any sample distributions, biases and or data limitations
 4. Exploratory analysis
 5. Data sub-setting
 6. Defining CNN hyperparameters
