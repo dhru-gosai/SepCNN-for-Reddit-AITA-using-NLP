@@ -5,7 +5,7 @@ Usually, there is certain amount of hesitance when it comes to letting the machi
 
 A user labelled metadata with years’ worth of information means a perfect opportunity to create a machine learning algorithm that could predict whether a decision made by someone was ethical or not. This research paper explores the Reddit metadata and extracts relevant information with the use of web scrapping. Employing the NLP methods, a deep learning neural networks algorithm is created to predict whether the post-verdict should have been "You're The Asshole" or "Not The Asshole”.
 
-##Steps involved to create ML model via web crawling and NLP:
+Steps involved to create ML model via web crawling and NLP:
 1. Web Crawler
     - Using URL handling modules (urllib) request and API to extract data
 2. Data Pre-processing
